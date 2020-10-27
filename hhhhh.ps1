@@ -1,0 +1,1 @@
+1..30 | % { calc.exe;Start-Sleep -s 0.6;}
