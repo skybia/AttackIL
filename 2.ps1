@@ -1,1 +1,0 @@
-msg $Env:username "Shalom"
