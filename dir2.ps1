@@ -1,0 +1,1 @@
+dir -Force c:/users/ | Select BaseName
